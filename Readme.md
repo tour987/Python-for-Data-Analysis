@@ -17,3 +17,6 @@
 
 ### 3. 一个用于探索和发布数据的 Python 工具：[simonw/datasette](https://github.com/simonw/datasette)
 该项目可以将 CSV、JSON、数据库等各种形式的数据，在几分钟内发布成 API 接口或网页，轻松实现数据集的 Web 可视化、搜索、分析等功能。
+
+### 4.《Python 正则表达式从入门到精通》: [learnbyexample/py_regular_expressions](https://github.com/learnbyexample/py_regular_expressions)
+这本书包含数百个示例和练习，涵盖了 Python 正则表达式从初级到高级的用法。
