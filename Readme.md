@@ -11,3 +11,7 @@
 # 三.相关资源：
 ### 1.  [pygwalker](https://github.com/Kanaries/pygwalker)
 该项目可以将 pandas 的 dataframe 数据对象转化成一个可交互的图形界面，支持通过拖拽字段的方式进行数据分析。
+
+### 2. [mitsuhiko/rye](https://github.com/mitsuhiko/rye)
+**一站式的 Python 包管理工具**  
+大名鼎鼎 Armin(Flask 作者) 开源的一站式 Python 依赖解决方案。它由 Rust 编写，支持安装和管理不同版本的 Python，在后台静默创建虚拟环境、管理 Python 项目依赖。
