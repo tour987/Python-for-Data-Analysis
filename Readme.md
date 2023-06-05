@@ -27,3 +27,7 @@
 
 ### 6.适合所有人的Python: [csev/py4e](https://github.com/csev/py4e)
 不管你有没有编程基础，只要对编程感兴趣，都可以通过这本书学会 Python，进入有趣的编程世界。
+
+### 7.Pandas与ChatGPT的超强结合：[pandas-ai](https://github.com/gventuri/pandas-ai)
+* Python Pandas是一个为Python编程提供数据操作和分析功能的开源工具包。这个库已经成为数据科学家和分析师的必备工具。它提供了一种有效的方法来管理结构化数据(Series和DataFrame)。
+* 在人工智能领域，Pandas经常用于机器学习和深度学习过程的预处理步骤。Pandas通过提供数据清理、重塑、合并和聚合，可以将原始数据集转换为结构化的、随时可用的2维表格，并将其输入人工智能算法。
