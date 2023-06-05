@@ -20,7 +20,10 @@
 
 
 ### 4.用于创建数学动画的 Python 框架: [ManimCommunity/manim](https://github.com/ManimCommunity/manim)
-它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。
+它可以用简单的代码制作出精美的数学动画，通过动画的方式直观地解释一些复杂的数学问题。  
+
+**But, 与之相对应的还有一个Matplotlib，这个库主要用来画静态图，Manim主要用来做动画演示。**
+
 
 ### 5. Numpy 的练习册: [rougier/numpy-100](https://github.com/rougier/numpy-100)
 该项目包含了 100 个关于 Python 常用的数据处理库 Numpy 的练习和解决方案。
